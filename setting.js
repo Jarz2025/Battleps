@@ -120,10 +120,10 @@ window.settings = {
   ],
 
   links: {
-    discord: "https://jarz2025.github.io/CleoPS/error.html",
+    discord: "https://jarz2025.github.io/Battleps/error.html",
     whatsapp: "https://chat.whatsapp.com/BS9k4QnL7kVFDJaVDRknzB",
     tiktok: "https://tiktok.com",
-    youtube: "https://jarz2025.github.io/CleoPS/error.html"
+    youtube: "https://jarz2025.github.io/Battleps/error.html"
   },
 
   serverStatus: {
